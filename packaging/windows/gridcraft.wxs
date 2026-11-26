@@ -162,10 +162,10 @@
         <!-- ProgIds: how Explorer opens a file with GridCraft. Nothing here sets HKCR\.<ext>'s
              default value, so the user's current default app is left alone. -->
         <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.Workbook" Value="GridCraft Workbook" Type="string" />
-        <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.Workbook\DefaultIcon" Value="&quot;[#GridcraftExe]&quot;,0" Type="string" />
+        <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.Workbook\DefaultIcon" Value="&quot;[#GridcraftExe]&quot;,-2" Type="string" />
         <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.Workbook\shell\open\command" Value="&quot;[#GridcraftExe]&quot; &quot;%1&quot;" Type="string" />
         <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.TextData" Value="GridCraft Text Data" Type="string" />
-        <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.TextData\DefaultIcon" Value="&quot;[#GridcraftExe]&quot;,0" Type="string" />
+        <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.TextData\DefaultIcon" Value="&quot;[#GridcraftExe]&quot;,-2" Type="string" />
         <RegistryValue Root="HKMU" Key="Software\Classes\GridCraft.TextData\shell\open\command" Value="&quot;[#GridcraftExe]&quot; &quot;%1&quot;" Type="string" />
 
         <!-- "Open with": Windows reads only the value names under OpenWithProgids; the data is

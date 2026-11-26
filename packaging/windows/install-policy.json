@@ -29,7 +29,7 @@
       "-1",
       "Software\\Classes\\GridCraft.Workbook\\DefaultIcon",
       "",
-      "\"[#GridcraftExe]\",0"
+      "\"[#GridcraftExe]\",-2"
     ],
     [
       "-1",
@@ -47,7 +47,7 @@
       "-1",
       "Software\\Classes\\GridCraft.TextData\\DefaultIcon",
       "",
-      "\"[#GridcraftExe]\",0"
+      "\"[#GridcraftExe]\",-2"
     ],
     [
       "-1",

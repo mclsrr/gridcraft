@@ -1,3 +1,5 @@
+Windows artwork is supplied by Design System in Iconos-Design-System.zip. The stable ICO and the 512 px hicolor PNG are master files. The document pair comes from documentos/xlsx. Regenerating smaller hicolor PNGs with packaging/icons.sh requires ImageMagick 7.
+
 # GridCraft app icon (PLACEHOLDER)
 
 **This icon is temporary.** Every Crafting App's icon is an engraved creature portrait that the
